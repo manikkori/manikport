@@ -201,8 +201,8 @@ span{
     color: black;
 }
 .text-animation{
-    font-size: 34px;
-    font-weight: 600;
+    font-size: 30px;
+    font-weight: 500;
     min-width: 280px;
 }
 .text-animation span{
@@ -272,7 +272,7 @@ span{
     65%,
     80%,
     85%{
-        width: calc(100% + 6px);
+        width: calc(100% + 8px);
     }
 
 }
